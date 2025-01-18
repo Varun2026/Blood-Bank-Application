@@ -1,4 +1,35 @@
-# Blood-Bank-Application
+
+
+# Blood Donor Web Application / Blood-Bank-Application
+
+A user-friendly web application designed to connect blood donors and recipients seamlessly.
+
+## Key Features
+
+- **Donor Registration**:  
+  New donors can easily sign up and create an account.
+
+- **Donor Search**:  
+  Search for donors based on criteria like blood type, age, and location.
+
+- **Account Management**:  
+  Existing users can log in to access and manage their profiles.
+
+- **Donor Discovery**:  
+  A dedicated page displays matching donors for efficient and quick connections.
+
+This project aims to streamline the process of finding blood donors, ensuring timely help for those in need.
+
+## Tech Stack
+
+- **Frontend**: HTML, CSS, Bootstrap  
+- **Backend**: PHP  
+- **Database**: MySQL  
+
+## Purpose
+
+Perfect for healthcare organizations, individuals in emergencies, and community-based initiatives focused on saving lives.
+
 
 ## Home Page
 ![image](https://github.com/user-attachments/assets/232f77dc-46d8-4f82-b708-9ca8f97d6822)
