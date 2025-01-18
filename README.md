@@ -1,3 +1,3 @@
 # Blood-Bank-Application
 
-![image alt](https://github.com/Varun2026/Blood-Bank-Application/blob/main/Screenshot%202025-01-18%20092623.png?raw=true)
+![image](https://github.com/user-attachments/assets/232f77dc-46d8-4f82-b708-9ca8f97d6822)
