@@ -16,7 +16,7 @@ A user-friendly web application designed to connect blood donors and recipients 
   Existing users can log in to access and manage their profiles.
 
 - **Donor Discovery**:  
-  A dedicated page displays matching donors for efficient and quick connections.
+  A dedicated page displays matching donors along with their name, age and phone number for efficient and quick connections.
 
 This project aims to streamline the process of finding blood donors, ensuring timely help for those in need.
 
